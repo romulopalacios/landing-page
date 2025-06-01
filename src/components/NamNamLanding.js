@@ -312,7 +312,7 @@ const NamNamLanding = () => {
                     </div>
                   </a>
                   <a
-                    href="tel:+59396267516"
+                    href="tel:+593962675161"
                     className="group block w-full bg-slate-50 hover:bg-slate-100 border border-slate-200 hover:border-slate-300 rounded-lg sm:rounded-xl p-3 sm:p-4 transition-all duration-300 hover:shadow-md focus:outline-none focus:ring-2 focus:ring-pink-300"
                     aria-label="Llamar al número femenino +593 96 267 5161"
                   >
@@ -320,7 +320,7 @@ const NamNamLanding = () => {
                       <div className="w-6 h-6 sm:w-8 sm:h-8 bg-pink-100 rounded-full flex items-center justify-center group-hover:bg-pink-200 transition-colors">
                         <span className="text-xs sm:text-sm" aria-hidden="true">👩</span>
                       </div>
-                      <div className="text-slate-700 font-medium text-sm sm:text-base">+593 96 267 5161</div>
+                      <div className="text-slate-700 font-medium text-sm sm:text-base">+593 962 675 161</div>
                     </div>
                   </a>
                 </div>
@@ -348,17 +348,17 @@ const NamNamLanding = () => {
                     </div>
                   </a>
                   <a
-                    href="https://wa.me/59396267516"
+                    href="https://wa.me/593962675161"
                     className="group block w-full bg-green-50 hover:bg-green-100 border border-green-200 hover:border-green-300 rounded-lg sm:rounded-xl p-3 sm:p-4 transition-all duration-300 hover:shadow-md focus:outline-none focus:ring-2 focus:ring-green-300"
                     target="_blank"
                     rel="noopener noreferrer"
-                    aria-label="Enviar mensaje de WhatsApp al número femenino +593 96 267 5161"
+                    aria-label="Enviar mensaje de WhatsApp al número femenino +593 962 675 161"
                   >
                     <div className="flex items-center justify-center gap-2 sm:gap-3">
                       <div className="w-6 h-6 sm:w-8 sm:h-8 bg-green-100 rounded-full flex items-center justify-center group-hover:bg-green-200 transition-colors">
                         <span className="text-xs sm:text-sm" aria-hidden="true">👩</span>
                       </div>
-                      <div className="text-green-700 font-medium text-sm sm:text-base">+593 96 267 5161</div>
+                      <div className="text-green-700 font-medium text-sm sm:text-base">+593 962 675 161</div>
                     </div>
                   </a>
                 </div>
@@ -400,7 +400,7 @@ const NamNamLanding = () => {
                   <div className="flex flex-col sm:flex-row sm:items-center sm:space-x-2">
                     <span className="text-xs sm:text-sm">+593 978 742 139</span>
                     <span className="hidden sm:inline text-xs sm:text-sm">•</span>
-                    <span className="text-xs sm:text-sm">+593 96 267 5161</span>
+                    <span className="text-xs sm:text-sm">+593 962 675 161</span>
                   </div>
                 </div>
                 <div className="flex items-center justify-center lg:justify-start space-x-2">
